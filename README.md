@@ -1,34 +1,16 @@
-\# My React Native Apps
-
-
+# My React Native Apps
 
 A collection of React Native projects I'm building while learning.
 
-
-
-\## Apps
-
-
+## Apps
 
 | App | Description |
-
 |---|---|
+| [App_2](./App_2) | Password Maker — generates and validates passwords |
 
-| \[App\_2](./App\_2) | (describe it here) |
-
-
-
-\## Running Any App
-
-
+## Running Any App
 
 ```bash
-
-cd App\_2
-
+cd App_2
 npm install
-
 npx react-native run-android
-
-
-
