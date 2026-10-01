@@ -6,7 +6,7 @@ A collection of React Native projects I'm building while learning.
 
 | App | Description |
 |---|---|
-| [App_2](./App_2) | Password Maker — generates and validates passwords |
+| Password Maker | It generates and validates passwords |
 
 ## Running Any App
 
